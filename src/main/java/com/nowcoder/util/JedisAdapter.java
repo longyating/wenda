@@ -15,7 +15,7 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Set;
 
-
+//这是一个redis 的实现类
 /**
  * Created by nowcoder on 2016/7/30.
  */

@@ -1,519 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c56090d4-581e-42e3-b775-33733126c545" name="Default Changelist" comment="The first commit.">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wenda_war.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/wenda_war_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_6_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_6_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_6_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_core_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_taglib_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_struts_struts_tiles_1_3_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_0_36.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_1_7.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_21.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_devtools_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_validation_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_velocity_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_3_6_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_7_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__sslext_sslext_1_2_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/WendaApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/aspect/LogAspect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/EventConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/EventHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/EventModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/EventProducer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/EventType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/CommentHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/FeedHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/FollowHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/LikeHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/configuration/WendaWebConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/CommentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/FeedController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/FollowController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/HomeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/IndexController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/LikeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/LoginController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/MessageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/QuestionController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/SettingController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/dao/CommentDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/dao/FeedDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/dao/LoginTicketDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/dao/MessageDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/dao/QuestionDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/dao/UserDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/interceptor/LoginRequiredInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/interceptor/PassportInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/EntityType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/Feed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/HostHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/LoginTicket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/Message.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/model/ViewObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/CommentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/FeedService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/FollowService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/LikeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/MessageService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/QuestionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/SensitiveService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/WendaService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/PropertyUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/RedisKeyUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/SensitiveWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/nowcoder/dao/FeedDAO.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/nowcoder/dao/QuestionDAO.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/redis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/img/spinner2.8f60205d.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/img/sprites-1.9.2.4c54885a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/img/sprites-1.9.2@2x.6e638473.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/img/sprites.auto.915a539c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/img/sprites@2x.auto.dd5c79c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/070a9fb26_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/0b856ef58f76b7c83a0e130f6ef71281_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/0ba3da3f03ced7a438118b0be77df56c_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/0c6a39621ab1d456b1e6e492d0becc0c_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/0cf21546298ad1ed3cb64be61d822c27_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/0cffb89d0b0bd4e726ae54b212a31c3b_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/102799979_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/10a4cd7fb082375332be33eadfd14c58_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/11ba31c8bb5473a44b7690eff24b9123_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/11be4a90ed938abfbab4899df56ee754_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/12a8e1ce5ad8060fddb93ae2df98028b_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/19456ebfe8b207320735f282769ac635_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/1ac7840eeb19ada0bbf85f51702d5784_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/1ce495b02_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/23cace5cf60f39dbc095bd7a12b2cfad_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/24ce38dd5fc2a0c4e0525e577eef7d64_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/272627e471a533f58f319a9e600e0a94_is.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/2e21e58a990f5c756e813a64a4bba14c_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/31826765d442d8222a05cd67d0643a25_270x225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/33fb6f51a3f4e16b6e89172040451dca_b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/3b673d6335ef6788d1659ee2b6381e97_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/41d652d947a489e056b0179ba137294b_m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/450c9d9f5240f05f73d21fe3ae76f1a6_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/4528283ed249589634546327431667bf_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/4d104b6c6a08f7e1a48f4f32c88b1ce2_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/51559bbebaa7fd395c271b7b1c8b9f26_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/558b3e3d8be209247159ba4f83ab1c02_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/6088e39f2_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/66a689b2c60557eae79d839aaedf48b0_200x112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/6c76223a5aef2f1d29c680a2524de791_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/6ceea810748d179f57cac0baa5cf9592_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/6cfbfc0c5e3c5ecd8784f7e733a75b4f_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/6fd46860a4b6cbc1e52d676f217ea9fd_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/7412830858217e93f6c5d06f6328cbd5_200x112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/7986ef6045f2cef8352be5affce5f7d1_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/837b60aa36029a2309974e74de3b62e9_xl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/845303838eca4a5b5f03cc3ca994ec28_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/845c492813e72b85c6e11cccf8ed0ff8_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/935f87219_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/975baaf73fd76f48ce6f05e19b176878_xl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/9cfe980ca44e38bd9b0e5c3dee5b0f3e_270x225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/9ec0168d1b210d9b8f089e16f521b82b_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/a3f80f6a6_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/a4df63114bd9374a73775e30db1cdd36_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/a57fdaff90865eaaef2e87051624862b_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/aa49b7ceff22ea68ca5f747115cd17af_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/aadd7b895_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/aadd7b895_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/actioncard-suggested-avatar.c5af416d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/actioncard-validation@2x.65147043.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/b144d91ec_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/b3aadf89405941b05a5ce00fb06f8281_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/b476f1461388bf4907634009904739e6_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/b4a6228e6810d38e19e491c173af4d5c_m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/b85ddd8aa_xl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/badaaf312e59c125928bd1ea2d4b5a51_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/bb73b7fb48b0cb63aa573415dfe4d0c5_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/bc93fd5289c13c06fd569bc4f6df821e_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/be39d110759e68f389b7d2934d7353bc_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/c07f969d8dcc6251ef114fe6b1a9a563_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/c28e9af7f_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/c54bb4367803ba590035d2d89d1a84dd_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/c79247853_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/c898060535edfdbe4147d2135c29787f_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/c94c92af8_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/cafae465b8ea283498c69ab9757f86ba_xl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/captcha.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/cbc5d3c6f333215a1c480cb3b4735b45_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/d207854fffc9e0289fbd6bbbb3986988_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/d6842d77b4bda238e0db09217e3d2f8d_270x225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/d822a919d93a761634a67c2022a3f614_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/da8e974dc_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/da8e974dc_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/da8e974dc_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/df4aa616fdcfbd861c010ff71aaef95c_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/e174d6d0c_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/e6f4caaaa_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/e8757728eb70adeb8ebaa0864874c29d_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/ec6bb3fa05625b848ac4d475ecce35c9_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/f1148eb1c7170cabb0a78dad73b590f6_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/f99201e42237de4fb7f8d5fbf9a2d270_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/fa70eff301ba417d4a9d3f55d603a29e_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/facfb45ac94f174655695853d4470bac_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/fb05f15bf8bffd1590df442ff6ba7812_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/fb6c4dd60a9f19f5fcd8265395e11f9e_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/fff25000064308791f739149af611439_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/hour.3d371c99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/nacl.656ec1c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/nk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/res/weekly.65279d61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/aza-0.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/base.fb262f0e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/common.fed5411f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/ga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/instant.e7a17de6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/base/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/base/event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/base/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/component/component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/component/popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/component/popupAdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/component/popupMsg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/site/detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/site/follow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/site/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/site/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/util/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/main/util/business.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/page-index.d7b54ac7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/page-main.5d4c554d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/richtexteditor.aa0a4005.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/vendor.ff76fbae.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/scripts/za-0.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles/detail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles/letter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/styles/result.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/feeds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/followees.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/followers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/letter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/letterDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/mails/login_exception.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/toolbox.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nowcoder/BinTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nowcoder/InitDatabaseTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nowcoder/LikeServicesTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nowcoder/MultiThreadTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/nowcoder/WendaApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/init-schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/SensitiveWords.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/WendaApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/aspect/LogAspect.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/EventConsumer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/EventConsumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/EventHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/EventModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/EventProducer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/EventType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/handler/CommentHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/handler/FeedHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/handler/FollowHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/handler/LikeHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/configuration/WendaWebConfiguration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/CommentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/FeedController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/FollowController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/HomeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/IndexController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/LikeController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/MessageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/QuestionController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/controller/SettingController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/CommentDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/FeedDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/FeedDAO.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/LoginTicketDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/MessageDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/QuestionDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/QuestionDAO.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/dao/UserDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/interceptor/LoginRequiredInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/interceptor/PassportInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/Comment.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/EntityType.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/Feed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/HostHolder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/LoginTicket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/Message.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/Question.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/model/ViewObject.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/CommentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/FeedService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/FollowService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/LikeService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/MessageService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/QuestionService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/SensitiveService$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/SensitiveService$TrieNode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/SensitiveService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/UserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/service/WendaService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/util/JedisAdapter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/util/PropertyUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/util/RedisKeyUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/util/WendaUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/mybatis-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/redis.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/img/spinner2.8f60205d.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/img/sprites-1.9.2.4c54885a.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/img/sprites-1.9.2@2x.6e638473.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/img/sprites.auto.915a539c.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/img/sprites@2x.auto.dd5c79c1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/070a9fb26_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/0b856ef58f76b7c83a0e130f6ef71281_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/0ba3da3f03ced7a438118b0be77df56c_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/0c6a39621ab1d456b1e6e492d0becc0c_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/0cf21546298ad1ed3cb64be61d822c27_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/0cffb89d0b0bd4e726ae54b212a31c3b_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/102799979_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/10a4cd7fb082375332be33eadfd14c58_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/11ba31c8bb5473a44b7690eff24b9123_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/11be4a90ed938abfbab4899df56ee754_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/12a8e1ce5ad8060fddb93ae2df98028b_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/19456ebfe8b207320735f282769ac635_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/1ac7840eeb19ada0bbf85f51702d5784_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/1ce495b02_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/23cace5cf60f39dbc095bd7a12b2cfad_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/24ce38dd5fc2a0c4e0525e577eef7d64_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/272627e471a533f58f319a9e600e0a94_is.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/2e21e58a990f5c756e813a64a4bba14c_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/31826765d442d8222a05cd67d0643a25_270x225.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/33fb6f51a3f4e16b6e89172040451dca_b.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/3b673d6335ef6788d1659ee2b6381e97_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/41d652d947a489e056b0179ba137294b_m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/450c9d9f5240f05f73d21fe3ae76f1a6_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/4528283ed249589634546327431667bf_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/4d104b6c6a08f7e1a48f4f32c88b1ce2_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/51559bbebaa7fd395c271b7b1c8b9f26_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/558b3e3d8be209247159ba4f83ab1c02_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/6088e39f2_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/66a689b2c60557eae79d839aaedf48b0_200x112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/6c76223a5aef2f1d29c680a2524de791_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/6ceea810748d179f57cac0baa5cf9592_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/6cfbfc0c5e3c5ecd8784f7e733a75b4f_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/6fd46860a4b6cbc1e52d676f217ea9fd_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/7412830858217e93f6c5d06f6328cbd5_200x112.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/7986ef6045f2cef8352be5affce5f7d1_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/837b60aa36029a2309974e74de3b62e9_xl.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/845303838eca4a5b5f03cc3ca994ec28_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/845c492813e72b85c6e11cccf8ed0ff8_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/935f87219_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/975baaf73fd76f48ce6f05e19b176878_xl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/9cfe980ca44e38bd9b0e5c3dee5b0f3e_270x225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/9ec0168d1b210d9b8f089e16f521b82b_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/a3f80f6a6_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/a4df63114bd9374a73775e30db1cdd36_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/a57fdaff90865eaaef2e87051624862b_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/aa49b7ceff22ea68ca5f747115cd17af_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/aadd7b895_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/aadd7b895_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/actioncard-suggested-avatar.c5af416d.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/actioncard-validation@2x.65147043.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/b144d91ec_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/b3aadf89405941b05a5ce00fb06f8281_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/b476f1461388bf4907634009904739e6_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/b4a6228e6810d38e19e491c173af4d5c_m.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/b85ddd8aa_xl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/badaaf312e59c125928bd1ea2d4b5a51_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/bb73b7fb48b0cb63aa573415dfe4d0c5_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/bc93fd5289c13c06fd569bc4f6df821e_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/be39d110759e68f389b7d2934d7353bc_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/c07f969d8dcc6251ef114fe6b1a9a563_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/c28e9af7f_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/c54bb4367803ba590035d2d89d1a84dd_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/c79247853_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/c898060535edfdbe4147d2135c29787f_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/c94c92af8_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/cafae465b8ea283498c69ab9757f86ba_xl.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/captcha.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/cbc5d3c6f333215a1c480cb3b4735b45_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/d207854fffc9e0289fbd6bbbb3986988_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/d6842d77b4bda238e0db09217e3d2f8d_270x225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/d822a919d93a761634a67c2022a3f614_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/da8e974dc_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/da8e974dc_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/da8e974dc_s.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/df4aa616fdcfbd861c010ff71aaef95c_b.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/e174d6d0c_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/e6f4caaaa_m.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/e8757728eb70adeb8ebaa0864874c29d_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/ec6bb3fa05625b848ac4d475ecce35c9_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/f1148eb1c7170cabb0a78dad73b590f6_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/f99201e42237de4fb7f8d5fbf9a2d270_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/fa70eff301ba417d4a9d3f55d603a29e_s.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/facfb45ac94f174655695853d4470bac_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/fb05f15bf8bffd1590df442ff6ba7812_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/fb6c4dd60a9f19f5fcd8265395e11f9e_200x112.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/fff25000064308791f739149af611439_is.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/hour.3d371c99.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/nacl.656ec1c4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/nk.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/images/res/weekly.65279d61.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/aza-0.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/base.fb262f0e.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/common.fed5411f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/ga.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/instant.e7a17de6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/base/base.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/base/event.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/base/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/component/component.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/component/popup.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/component/popupAdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/component/popupMsg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/site/detail.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/site/follow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/site/home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/site/profile.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/util/action.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/main/util/business.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/page-index.d7b54ac7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/page-main.5d4c554d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/richtexteditor.aa0a4005.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/vendor.ff76fbae.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/scripts/za-0.1.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/styles/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/styles/detail.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/styles/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/styles/letter.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/styles/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/static/styles/result.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/feeds.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/followees.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/followers.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/js.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/letter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/letterDetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/mails/login_exception.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/toolbox.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/BinTree.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/Consumer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/InitDatabaseTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/LikeServicesTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$6.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$8.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests$9.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MultiThreadTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/MyThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/Producer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/nowcoder/WendaApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/init-schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wenda.iml" afterDir="false" />
+    <list default="true" id="c56090d4-581e-42e3-b775-33733126c545" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/FeedService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/service/FeedService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/nowcoder/async/handler/FeedHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/nowcoder/async/handler/FeedHandler.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -542,10 +35,14 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/controller/FollowController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1711">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            <state relative-caret-position="322">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="method#print#0;class#JedisAdapter#0" />
+                <element signature="method#mainx#0;class#JedisAdapter#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -553,8 +50,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/controller/HomeController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
+            <state relative-caret-position="1196">
+              <caret line="68" column="29" lean-forward="true" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/PropertyUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -569,15 +87,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/controller/FeedController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="736">
@@ -586,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/service/FeedService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="69">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -605,15 +114,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/controller/IndexController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1749">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/FeedHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -673,8 +173,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/service/QuestionService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/CommentController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/LikeHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/CommentHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/model/HostHolder.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/async/EventConsumer.java" />
@@ -684,6 +182,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/controller/FeedController.java" />
         <option value="$PROJECT_DIR$/src/main/resources/templates/header.html" />
         <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/async/handler/FeedHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/nowcoder/service/FeedService.java" />
       </list>
     </option>
   </component>
@@ -733,7 +234,57 @@
     <panes>
       <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="nowcoder" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="wenda" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wenda" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -907,8 +458,30 @@
       <workItem from="1582902497066" duration="1211000" />
       <workItem from="1582903745502" duration="1717000" />
       <workItem from="1582905851834" duration="2480000" />
-      <workItem from="1582944800599" duration="35764000" />
+      <workItem from="1582944800599" duration="38033000" />
     </task>
+    <task id="LOCAL-00001" summary="The first commit.">
+      <created>1583071719278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583071719278</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Change redis.">
+      <created>1583073202559</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583073202559</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Change util.">
+      <created>1583073782387</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1583073782387</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -923,10 +496,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54324000" />
+    <option name="totallyTimeSpent" value="56593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1563" height="855" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27707642" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -939,7 +513,7 @@
       <window_info anchor="bottom" id="Analyze Dataflow from" weight="0.32872927" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.20994475" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31673583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.61878455" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -948,10 +522,10 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32872927" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32918397" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Messages" order="14" visible="true" weight="0.32780084" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32918397" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.32780084" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.24983388" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -969,7 +543,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="The first commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="The first commit." />
+    <MESSAGE value="Change redis." />
+    <MESSAGE value="Change util." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change util." />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -1041,22 +617,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/PropertyUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#875#876#0" expanded="true" />
-            <element signature="e#931#932#0" expanded="true" />
-            <element signature="e#1138#1139#0" expanded="true" />
-            <element signature="e#1194#1195#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,28 +733,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="179" column="62" selection-start-line="179" selection-start-column="62" selection-end-line="179" selection-end-column="62" />
-          <folding>
-            <element signature="method#print#0;class#JedisAdapter#0" />
-            <element signature="method#mainx#0;class#JedisAdapter#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/nowcoder/InitDatabaseTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-781">
-          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -1322,13 +864,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/controller/HomeController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="70" column="55" selection-start-line="70" selection-start-column="55" selection-end-line="70" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/templates/home.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -1347,13 +882,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
           <caret line="6" column="64" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/service/FeedService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
@@ -1382,6 +910,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/controller/HomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1196">
+          <caret line="68" column="29" lean-forward="true" selection-start-line="68" selection-start-column="29" selection-end-line="68" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/PropertyUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="19" column="13" lean-forward="true" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/WendaUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="18" column="54" selection-start-line="18" selection-start-column="54" selection-end-line="18" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/util/JedisAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="method#print#0;class#JedisAdapter#0" />
+            <element signature="method#mainx#0;class#JedisAdapter#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/nowcoder/service/FeedService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
         </state>
       </provider>
     </entry>
