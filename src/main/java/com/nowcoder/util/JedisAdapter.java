@@ -178,7 +178,7 @@ public class JedisAdapter implements InitializingBean {
                 PropertyUtil.getIntegerProperty("redis.port", "6379"),
                 PropertyUtil.getIntegerProperty("redis.timeout"),
                 PropertyUtil.getProperty("redis.password"));*/
-       pool = new JedisPool("redis://localhost:6379/10");
+       pool = new JedisPool("redis://localhost:6379/10"); //本地地址
     }
 
     public long sadd(String key, String value){//集合里增加成员
